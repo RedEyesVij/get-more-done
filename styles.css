@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+
+}
+
+.header {
+    max-width: 1920px;
+    height: 92px;
+    background-color: #043873;
+    display: flex;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
