@@ -41,8 +41,8 @@ h2 {
 .logo {
     width: 191px;
     height: 34px;
-    padding-top: 16px;
-    padding-bottom: 16px;
+    padding-top: 29px;
+    padding-bottom: 29px;
     margin-left: 220px;
 }
 
@@ -55,9 +55,13 @@ h2 {
 }
 
 .nav-link {
-    padding-right: 10px;
     text-decoration: none;
     color: #fff;
+    cursor: pointer;
+}
+
+.arrow-d {
+    padding-right: 32px;
     cursor: pointer;
 }
 
