@@ -6,9 +6,7 @@ body {
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-}
-
-/* padding-left: 220px;
+    /* padding-left: 220px;
     padding-right: 220px; */
 }
 
@@ -19,6 +17,8 @@ button {
 h2 {
     font-size: 64px;
     color: #fff;
+    margin: 0;
+    padding-bottom: 24px;
 }
 
 .main-container {
@@ -94,4 +94,32 @@ h2 {
 
 .lines {
     z-index: -1;
+}
+
+.content-container-1 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 326px;
+    left: 220px;
+}
+
+.left-container {
+    display: block;
+    width: 656px;
+}
+
+.describe-1 {
+    color: #fff;
+    margin: 0;
+    padding-bottom: 60px;
+}
+
+.alt-img {
+    background-color: #C4DEFD;
+    width: 824px;
+    height: 549px;
+    position: absolute;
+    top: 232px;
+    left: 876px;
 }
