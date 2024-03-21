@@ -2,12 +2,23 @@ body {
     width: 1920px;
     margin: 0;
     font-size: 18px;
-    /* padding-left: 220px;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+/* padding-left: 220px;
     padding-right: 220px; */
 }
 
 button {
     font-size: 18px;
+}
+
+h2 {
+    font-size: 64px;
+    color: #fff;
 }
 
 .main-container {
@@ -74,7 +85,7 @@ button {
     margin-right: 220px;
 }
 
-.fon {
+.background-part {
     width: 1920px;
     height: 829px;
     background-color: #043873;
