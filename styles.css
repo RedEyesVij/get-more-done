@@ -75,6 +75,7 @@ h2 {
     margin-top: 16px;
     margin-bottom: 16px;
     margin-right: 24px;
+    cursor: pointer;
 }
 
 .button-tryfree {
@@ -87,6 +88,7 @@ h2 {
     margin-top: 16px;
     margin-bottom: 16px;
     margin-right: 220px;
+    cursor: pointer;
 }
 
 .background-part-1 {
@@ -145,7 +147,7 @@ h2 {
 .element-3 {
     z-index: -1;
     position: absolute;
-    top: 1280px;
+    top: 1230px;
     left: 220px;
 }
 
@@ -166,8 +168,9 @@ h2 {
 }
 
 .h-2-2 {
+    width: 400px;
     color: #000;
-    padding-top: 208px;
+    padding-top: 68px;
     padding-bottom: 24px;
 }
 
@@ -205,8 +208,8 @@ h2 {
 
 .element-4 {
     position: absolute;
-    top: 1970px;
-    left: 1239px;
+    top: 1942px;
+    left: 1210px;
     z-index: -1;
 }
 
