@@ -98,7 +98,7 @@ h2 {
     z-index: -2;
 }
 
-.lines {
+.element-1 {
     z-index: -1;
     color: #FFE492;
 }
@@ -133,6 +133,7 @@ h2 {
 
 .background-part-2 {
     /* background-color: #fff; */
+    position: relative;
     z-index: -3;
 }
 
@@ -140,14 +141,14 @@ h2 {
     color: #CCCCCC;
     z-index: -2;
     position: absolute;
-    top: 1186px;
+    top: 265px;
     left: -162px;
 }
 
 .element-3 {
     z-index: -1;
     position: absolute;
-    top: 1230px;
+    top: 380px;
     left: 220px;
 }
 
@@ -156,7 +157,7 @@ h2 {
     display: flex;
     flex-direction: row;
     position: absolute;
-    top: 1061px;
+    top: 208px;
     left: 220px;
 }
 
@@ -185,7 +186,7 @@ h2 {
     height: 547px;
     background-color: #C4DEFD;
     position: absolute;
-    top: 1061px;
+    top: 140px;
     left: 952px;
 }
 
@@ -254,7 +255,7 @@ h2 {
 .alt-img-3 {
     width: 686px;
     height: 479px;
-    background-color: #4F9CF9;
+    background-color: #C4DEFD;
     margin-left: 98px;
     margin-top: 140px;
 }
