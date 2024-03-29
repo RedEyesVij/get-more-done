@@ -21,6 +21,16 @@ h2 {
     padding-bottom: 24px;
 }
 
+h1 {
+    font-size: 72px;
+    margin: 0;
+    padding-bottom: 24px;
+}
+
+ul {
+    text-decoration: none;
+}
+
 .main-container {
     width: 1480px;
     /* margin-left: auto;
@@ -296,7 +306,7 @@ h2 {
     width: 669px;
     color: #000;
     padding-left: 98px;
-    padding-top: 24px;
+    margin: 0;
 }
 
 .button-tryfree-2 {
@@ -308,4 +318,60 @@ h2 {
     margin-left: 98px;
     margin-top: 60px;
     color: #fff;
+}
+
+.background-part-5 {
+    margin-top: 140px;
+    text-align: center;
+    position: relative;
+}
+
+.content-container-5 {
+    display: flex;
+}
+
+.l-5-container,
+.r-5-container {
+    width: 472px;
+    height: 623px;
+    border: solid #FFE492;
+    border-radius: 10px;
+}
+
+.h-1-5 {
+    padding-top: 140px;
+}
+
+.element-7 {
+    width: 319px;
+    height: 30px;
+    position: absolute;
+    top: 200px;
+    left: 952px;
+    color: #FFE492;
+    z-index: -1;
+}
+
+.describe-5 {
+    width: 979px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-1 {
+    margin-bottom: 26px;
+    font-size: 16px;
+}
+
+.list-icon {
+    margin-left: 20px;
+    margin-bottom: 29px;
+}
+
+.c-5-container {
+    width: 472px;
+    height: 761px;
+    border-radius: 10px;
+    background-color: #043873;
+    z-index: -1;
 }
